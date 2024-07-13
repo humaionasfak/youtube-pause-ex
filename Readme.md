@@ -1,2 +1,2 @@
-- Open Chrome Browger and go to Extension setting and enable Developer mode,
+- Open Chrome Browser and go to Extension setting and enable Developer mode,
 - and open load unpacked select this folder
